@@ -23,9 +23,9 @@ SSR目的是为了能让流量通过防火墙。
 #### 买服务器
 这里以阿里云为例，购买
 在阿里云的管理控制台上
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191208150030185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW80NF9qYXZh,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/demeter-ink/SSR/blob/master/1.jpg)
 进入之后点击左边的“实例”
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191208150140566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW80NF9qYXZh,size_16,color_FFFFFF,t_70
+![在这里插入图片描述](https://github.com/demeter-ink/SSR/blob/master/2.jpg)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191208150443136.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW80NF9qYXZh,size_16,color_FFFFFF,t_70)
 
